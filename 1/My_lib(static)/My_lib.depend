@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608051065 source:d:\053502\lr5\1.ind\my_lib\lib_main.cpp
+	<math.h>
+	"headder.h"
+
+1608051065 d:\053502\lr5\1.ind\my_lib\headder.h
+
