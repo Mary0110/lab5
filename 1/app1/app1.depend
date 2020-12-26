@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608994207 source:d:\053502\lr5\1.ind\app1\main.cpp
+	<iostream>
+	<stdio.h>
+	"header.h"
+
+1607979109 d:\053502\lr5\1.ind\my_lib\headder.h
+
+1608051065 d:\053502\lr5\1.ind\my_lib\header.h
+
