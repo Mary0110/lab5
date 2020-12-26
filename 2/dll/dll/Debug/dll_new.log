@@ -1,4 +1,0 @@
-﻿  dll_new.cpp
-D:\053502\laba5_new\dll_new\dll_new\dll_new.cpp(10,1): warning C4273: 'sum': inconsistent dll linkage
-D:\053502\laba5_new\dll_new\dll_new\dll_new.h(12,31): message : see previous definition of 'sum'
-  dll_new.vcxproj -> D:\053502\laba5_new\dll_new\Debug\dll_new.dll
