@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="App1">
+		<Project filename="My_lib/My_lib.cbp" />
+		<Project filename="app1/app1.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
